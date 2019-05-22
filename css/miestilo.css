@@ -1,9 +1,43 @@
 body {
-    color: blue;
+    color: black;
+    background-color: beige;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(88, 86, 86);
+    text-align: right;
+}
+
+h1 {
+    border: 3px solid black;
+    width: 100%;
+    background-color: aqua;
+}
+
+h2 {
+    width: 100%;
+    background-color: aquamarine;
+    text-align: center;
 }
 
 p {
-    color: red;
-    width: 500px;
-    border: 1px solid black;
+    color: black;
+    border: 3px solid brown;
+}
+
+aside {
+    background-color: brown;
+}
+
+section {
+    text-align: center;
+}
+
+table {
+    background-color: yellowgreen;
 }
