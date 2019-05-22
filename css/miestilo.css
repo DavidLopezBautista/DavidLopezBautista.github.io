@@ -41,3 +41,8 @@ section {
 table {
     background-color: yellowgreen;
 }
+
+a {
+    background-color: black;
+    color: white;
+}
